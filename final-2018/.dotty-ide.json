@@ -1,0 +1,17 @@
+[ {
+  "id" : "final-2018/compile",
+  "compilerVersion" : "0.19.0-RC1",
+  "compilerArguments" : [ "-bootclasspath", "/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/classes" ],
+  "sourceDirectories" : [ "/Users/Sashok/Documents/2019-2020/FunProg/final-2018/src/main/scala-0.19", "/Users/Sashok/Documents/2019-2020/FunProg/final-2018/src/main/scala", "/Users/Sashok/Documents/2019-2020/FunProg/final-2018/src/main/java", "/Users/Sashok/Documents/2019-2020/FunProg/final-2018/target/scala-0.19/src_managed/main" ],
+  "dependencyClasspath" : [ "/Users/Sashok/.ivy2/cache/ch.epfl.lamp/dotty-library_0.19/jars/dotty-library_0.19-0.19.0-RC1.jar", "/Users/Sashok/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.1.jar" ],
+  "classDirectory" : "/Users/Sashok/Documents/2019-2020/FunProg/final-2018/target/scala-0.19/classes",
+  "projectDependencies" : [ ]
+}, {
+  "id" : "final-2018/test",
+  "compilerVersion" : "0.19.0-RC1",
+  "compilerArguments" : [ "-bootclasspath", "/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/classes" ],
+  "sourceDirectories" : [ "/Users/Sashok/Documents/2019-2020/FunProg/final-2018/src/test/scala-0.19", "/Users/Sashok/Documents/2019-2020/FunProg/final-2018/src/test/scala", "/Users/Sashok/Documents/2019-2020/FunProg/final-2018/src/test/java", "/Users/Sashok/Documents/2019-2020/FunProg/final-2018/target/scala-0.19/src_managed/test" ],
+  "dependencyClasspath" : [ "/Users/Sashok/Documents/2019-2020/FunProg/final-2018/target/scala-0.19/classes", "/Users/Sashok/.ivy2/cache/ch.epfl.lamp/dotty-library_0.19/jars/dotty-library_0.19-0.19.0-RC1.jar", "/Users/Sashok/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.1.jar" ],
+  "classDirectory" : "/Users/Sashok/Documents/2019-2020/FunProg/final-2018/target/scala-0.19/test-classes",
+  "projectDependencies" : [ "final-2018/compile" ]
+} ]
