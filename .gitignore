@@ -12,5 +12,5 @@
 target/
 
 # Dotty IDE
-/.dotty-ide-artifact
-/.dotty-ide.json
+*.dotty-ide-artifact
+*.dotty-ide.json
